@@ -26,3 +26,6 @@ Have fun and good luck getting home!
 - c - Manually enter your origin and destination.
 - o - Overwrite current origin and destination.
 - p - See what your origin and destination variables are set to.
+
+# Screenshot
+![Commute Screenshot](commute_screenshot.png)
